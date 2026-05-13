@@ -20,6 +20,16 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 - **Documentation**: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
 
 ---
+### Diagram of the Data flow 
+<img width="882" height="451" alt="02 Diagram of the Data flow drawio" src="https://github.com/user-attachments/assets/f9569d33-d10b-4d2a-84cf-a4459dcbcdc0" />
+
+## 🛠️ Important Links & Tools:
+
+Everything is for Free!
+- **[Git Repository](https://github.com/cyberdiego33/sql-data-warehouse-project/):** Set up a GitHub account and repository to manage, version, and collaborate on your code efficiently.
+- **[DrawIO](https://github.com/cyberdiego33/sql-data-warehouse-project/tree/main/docs/draw.io):** Design data architecture, models, flows, and diagrams.
+- **[Notion](https://www.notion.so/Data-Warehouse-Project-2d95c10081cf80f099e9d685543d4ad1?source=copy_link):** Get the Project Template from Notion
+
 
 ### BI: Analytics & Reporting (Data Analysis)
 
